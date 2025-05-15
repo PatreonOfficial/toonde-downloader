@@ -1,3 +1,9 @@
+#toonde.com downloader
+#by PatreonOfficial on github
+#v1.0
+#15.05.2025
+#####################################
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
